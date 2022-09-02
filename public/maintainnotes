@@ -1,0 +1,4 @@
+first we have created home singlepage then 
+we have used react router dom to link pages with each other and then 
+we have used params to get the movie id dynamically.then 
+we have used context hook to send data from parent to child directly.
